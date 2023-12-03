@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<title>Thư viện Đỏ</title>
+    <link rel="canonical" href="https://thuviendo.neocities.org//">
+<link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Thư viện Đỏ, một trang web lưu trữ các tác phẩm Marx-Lenin-Mao trong tiếng Việt.">
+<link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+		<h1>Thư viện Đỏ</h1>
+		<img src="images/favicon.png"
+ width="150" 
+     height="130" />
+    <h2>Một trang web lưu trữ các tác phẩm Marx-Lenin-Mao trong tiếng Việt</h2>
+		<p>VÔ SẢN TẤT CẢ CÁC NƯỚC ĐOÀN KẾT LẠI!</p>
+		<p>(Trang web này không thuộc sở hữu của bất cứ tổ chức hay đảng phái chính trị nào)</p>
+<div class="topnav">
+  <input type="text" placeholder="Tìm kiếm tài liệu..">
+</div>
+
+<ul id="artlist" class="art">
+    <!-- icl -->
+
+     </ul>
+<div id="hide">
+  <ul class="nopoint">
+  <li><a href="/works/icl">Các văn kiện của Liên đoàn Cộng sản Quốc tế</a></li>
+	<li><a href="/works/pcp">Các văn kiện của Đảng Cộng sản Peru</a></li>
+	<li><a href="/works/philippines">Các văn kiện của Đảng Cộng sản Philippines</a></li>
+	<li><a href="/works/repost">Các tác phẩm được đăng lại từ các tạp chí MLM khác</a></li>
+		<li><a href="/works/stalin">Các tác phẩm của Iosif Stalin</a></li>
+	<li><a href="/mao">Các tác phẩm của Mao Trạch Đông</a></li>
+	<li><a href="/gonzalo">Các tác phẩm của Gonzalo</a></li>
+	<li><a href="/works/sison">Các tác phẩm của Jose Maria Sison</a></li>
+		<li><a href="/works/polemic">Các tác phẩm luận chiến quốc tế</a></li>
+			<li><a href="/works/misc">Các tác phẩm khác</a></li>
+	<li><a href="/plans">Các phần được Thư viện Đỏ lên kế hoạch</a></li>
+	<li><a href="/sites">Các trang web Cộng sản khác</a></li>
+	<li><a href="/about">Về chúng tôi - Liên lạc với chúng tôi</a></li>
+    </ul>
+</div>
